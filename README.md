@@ -1,5 +1,5 @@
 # MassLinkOpener
-This extension aims to open several links at the same time. This can be used to search in them, bookmark them and archive them.
+This extension aims to open several links at the same time. This can be used to search in them or archive them using other browser extensions, or open several links at once which can then be bookmarked all at once using browser shortcuts. 
 
 It aims to support both relative and absolute links the user has highlighted and the extension will be activated through the browser's context menu. 
 
