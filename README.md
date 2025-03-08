@@ -5,4 +5,4 @@ It aims to support both relative and absolute links the user has highlighted and
 
 For now only support for Chrome is being worked on although support for Firefox is planned.
 
-i am creating this extension to learn and because no similar extension seems to be able to open relative links, or detect them reliably.
+i am creating this extension to learn and because no similar extension that i can find seems to be able to open relative links, or detect them reliably.
